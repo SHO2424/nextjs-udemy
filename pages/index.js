@@ -28,7 +28,7 @@ export default function Home({allPostsData}) {
       <title>{siteTitle}</title>
     </Head>
       <section>
-        <p className={utilStyles.headingMd}>i am shoei akiwa 20years old. i like soccer.</p>
+        <p className={utilStyles.headingMd}>i am akiwa shoei akiwa 20years old. i like soccer.</p>
       </section>
       <section>
         <h2>🗒shoeiのブログ</h2>
